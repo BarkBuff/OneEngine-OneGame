@@ -1,4 +1,4 @@
-# OneEngine, OneGame
+# 1Engine, 1Game: A Game authored end-to-end on a custom C Engine.
 
 This project is a ground-up 2D game engine built in C, powered by SDL2 and a persistent desire to understand what actually happens under the hood—because sometimes you just want fewer black boxes and more raw control.
 
